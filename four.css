@@ -3,4 +3,5 @@ h2,
 p {
   text-align: center;
   color: red;
+  /*This is a single Line comment explaning that the elements h1,h2 and the paragraph will be modified according to the styles above*/
 }
