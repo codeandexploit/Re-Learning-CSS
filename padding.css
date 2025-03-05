@@ -1,0 +1,10 @@
+p.one {
+  border: 1px solid red;
+  background-color: yellow;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+/*Padding is the whitespace between the content in the element and the border*/
