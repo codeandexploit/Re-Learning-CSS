@@ -1,3 +1,7 @@
 div {
   border: 1px solid red;
+  width: 500px;
+  margin: auto;
 }
+
+/*The Div Becomes Centered. It takes up the 500px Width and the rest of the spaces are divided equally*/
