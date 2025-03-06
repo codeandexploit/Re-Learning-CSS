@@ -1,0 +1,6 @@
+p.small {
+  line-height: 0.7;
+}
+p.big {
+  line-height: 1.8; /*No Pixel Metrics and specifies the space betweeen the lines in the paragraphs*/
+}
