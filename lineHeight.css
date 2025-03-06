@@ -3,4 +3,5 @@ p.small {
 }
 p.big {
   line-height: 1.8; /*No Pixel Metrics and specifies the space betweeen the lines in the paragraphs*/
+  direction: rtl; /*Specifies the Direction from Right to Left. The default is left to right*/
 }
