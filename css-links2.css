@@ -1,12 +1,16 @@
 a:link {
   color: red; /*Applies to links that have not been Visited*/
+  text-decoration: none;
 }
 a:visited {
   color: green; /*This is a visited link*/
+  text-decoration: none;
 }
 a:hover {
   color: hotpink; /*Mouse over the Link*/
+  text-decoration: underline;
 }
 a:active {
   color: blue;
+  text-decoration: underline;
 } /*Applies while the Element is being activated by the user, between the mouse click and the mouse release*/
