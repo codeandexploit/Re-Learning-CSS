@@ -13,3 +13,7 @@ th {
   text-align: left;
   vertical-align: bottom;
 }
+th,
+td {
+  padding: 15px;
+}
