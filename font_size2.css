@@ -1,0 +1,9 @@
+h1 {
+  font-size: 2.5em; /*1em=16px or the default-size so 2.5em = 2.5x16*/
+}
+h2 {
+  font-size: 1.875em; /*1em=16px or the default-size so 1.875em = 1.875x16*/
+}
+p {
+  font-size: 0.875em; /*1em=16px or the default-size so 0.875em = 0.875x16*/
+}
