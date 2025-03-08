@@ -3,5 +3,5 @@ p {
   outline-color: red;
 }
 p.dotted {
-  outline-style: dotted;
+  outline-style: dotted; /*None of the outline style works if the Outline-style is not set*/
 }
