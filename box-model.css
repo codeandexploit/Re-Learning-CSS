@@ -4,4 +4,5 @@ div {
   padding: 25px; /*Space around the content*/
   border: 25px solid navy;
   margin: 25px;
+  outline-color: #ff0000;
 }
