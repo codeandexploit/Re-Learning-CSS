@@ -1,0 +1,12 @@
+a:link {
+  color: red; /*Applies to links that have not been Visited*/
+}
+a:visited {
+  color: green; /*This is a visited link*/
+}
+a:hover {
+  color: hotpink; /*Mouse over the Link*/
+}
+a:active {
+  color: blue;
+} /*Applies while the Element is being activated by the user, between the mouse click and the mouse release*/
