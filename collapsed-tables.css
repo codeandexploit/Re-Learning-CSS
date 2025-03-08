@@ -1,0 +1,8 @@
+table,
+td,
+th {
+  border: 1px solid black;
+}
+table {
+  border-collapse: collapse; /*This must come before the other table properties*/ /*False Possitive, it is not affected in any way*/
+}
