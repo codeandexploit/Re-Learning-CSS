@@ -12,3 +12,7 @@
 #Margin Auto, an element takes up the corresponding width and the remaining space is divided between the remaining space
 #Display:none; The element does not take up any space on the webpage thereby doesnt affect the other elements
 #visibility: hidden; does the same work though it take space on the webpage
+
+#There are 4 Different Positioning Properties in CSS used for HTML elements
+
+Static, Fixed, Relative, Absolute
