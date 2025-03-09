@@ -1,0 +1,5 @@
+h1.hidden {
+  visibility: hidden;
+}
+
+/*Does the same work as display:none; */
