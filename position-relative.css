@@ -1,0 +1,6 @@
+div.relative {
+  position: relative;
+  border: 3px solid #73ad21;
+  left: 30px;
+}
+/* You can play around with the positions*/
