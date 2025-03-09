@@ -9,3 +9,4 @@
 #Display, its the most important CSS property for controlling the layout
 #Examples of Block Level Elements <div> <Header><Section><Footer><p><h1-h6><form>
 #Examples of Inline elements <span><a><img>
+#Margin Auto, an element takes up the corresponding width and the remaining space is divided between the remaining space
