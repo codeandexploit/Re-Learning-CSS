@@ -6,3 +6,4 @@
 #It consists of margins, paddings, borders and the actual content.
 #An outline is drawn around an element outside a border, to make it stand out.
 #None of the outline style works if the Outline-style is not set
+#Display, its the most important CSS property for controlling the layout
