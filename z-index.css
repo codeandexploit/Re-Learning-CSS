@@ -5,4 +5,5 @@ img {
   left: 0px;
   top: 0px;
   z-index: -1; /*Because the Z-index has a -1 it will be placed behind the image*/
+  opacity: 0.2; /*Helps Blur the image abit for the text to be legiable*/
 }
