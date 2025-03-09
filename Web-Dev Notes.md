@@ -18,3 +18,5 @@
 Static, Fixed, Relative, Absolute
 
 Z-index is used in styling overlapped elements in HTML. Normaly the element placed last appears on top. but a Z index can have either a positive or negative Z index indicating which element comes first.
+
+overflow:hidden; Hiddes content overflowing from a division
