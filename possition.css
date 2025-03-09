@@ -1,0 +1,4 @@
+div.static {
+  border: 3px solid #73ad21;
+  position: static;
+}
