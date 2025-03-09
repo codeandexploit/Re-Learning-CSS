@@ -7,3 +7,5 @@
 #An outline is drawn around an element outside a border, to make it stand out.
 #None of the outline style works if the Outline-style is not set
 #Display, its the most important CSS property for controlling the layout
+#Examples of Block Level Elements <div> <Header><Section><Footer><p><h1-h6><form>
+#Examples of Inline elements <span><a><img>
